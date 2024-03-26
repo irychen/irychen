@@ -16,6 +16,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=irychen&langs_cou
 
 ### My Works
 
-[**fortea**](https://www.npmjs.com/package/fortea) A comprehensive TypeScript function library offering a wide range of utilities.
+[**Fortea**](https://www.npmjs.com/package/fortea) A comprehensive TypeScript function library offering a wide range of utilities. 
+
+[![NPM version](https://img.shields.io/npm/v/fortea.svg?style=flat)](https://npmjs.com/package/fortea) [![NPM downloads](https://img.shields.io/npm/dm/fortea.svg?style=flat)](https://npmjs.com/package/fortea)
 
 [**KeepAlive for React**](https://www.npmjs.com/package/keepalive-for-react) A React KeepAlive component like keep-alive in vue.
+
+[![NPM version](https://img.shields.io/npm/v/keepalive-for-react.svg?style=flat)](https://npmjs.com/package/keepalive-for-react)
+[![NPM downloads](https://img.shields.io/npm/dm/keepalive-for-react.svg?style=flat)](https://npmjs.com/package/keepalive-for-react)
