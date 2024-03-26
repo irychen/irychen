@@ -1,6 +1,6 @@
 ## Welcome I'm Rychen
 
- I'm a software engineer, and I'm passionate 💗 about web development,and open-source. I write about what I've learned and share my thoughts here. I hope you find something useful. 
+ I'm a software engineer, and I'm passionate 💗 about web development, and open-source.
 
  **My Blogs** https://wyc.info
  
