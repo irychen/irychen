@@ -1,5 +1,7 @@
 ## Welcome I'm Rychen
 
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=irychen&label=PROFILE+VIEWS)
+
  I'm a software engineer, and I'm passionate 💗 about web development, and open-source.
 
  **My Blogs** https://wyc.info
