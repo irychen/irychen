@@ -26,3 +26,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=irychen&langs_cou
 
 [![NPM version](https://img.shields.io/npm/v/keepalive-for-react.svg?style=flat)](https://npmjs.com/package/keepalive-for-react)
 [![NPM downloads](https://img.shields.io/npm/dm/keepalive-for-react.svg?style=flat)](https://npmjs.com/package/keepalive-for-react)
+
+
+[**Super Admin 🔥**](https://irychen.github.io/super-admin/#/login) An Admin template with Multi Tabs Keepalive cache
