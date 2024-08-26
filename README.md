@@ -29,3 +29,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=irychen&langs_cou
 
 
 [**Super Admin 🔥**](https://irychen.github.io/super-admin/#/login) An Admin template with Multi Tabs Keepalive cache
+
+[**ShortcutsAI**](https://github.com/irychen/ShortcutsAI) just run your AI work from macOs Status Bar
