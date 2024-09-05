@@ -1,6 +1,5 @@
-### Hi there 👋
 
-## Welcome I'm Rychen
+<h1 align="center"><b>Hi , I'm Rychen 👋 </b></h1>
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=irychen&label=PROFILE+VIEWS)
 
