@@ -6,14 +6,6 @@
  I'm a software engineer, and I'm passionate 💗 about web development, and open-source.
 
  **My Blogs** https://wyc.info
- 
-### Github Stats
-
-![Rychen Wong GitHub Stats](https://github-readme-stats.vercel.app/api?username=irychen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=500px)
-
-### Languages
-![Rychen Wong GitHub Stats](
-https://github-readme-stats.vercel.app/api/top-langs/?username=irychen&langs_count=10&theme=tokyonight&layout=compact&bg_color=151515&card_width=500px)
 
 ### My Works
 
