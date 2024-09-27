@@ -17,6 +17,6 @@
 [![NPM downloads](https://img.shields.io/npm/dm/keepalive-for-react.svg?style=flat)](https://npmjs.com/package/keepalive-for-react)
 
 
-[**Super Admin 🔥**](https://irychen.github.io/super-admin/#/login) An Admin template with Multi Tabs Keepalive cache
+[**Super Admin 🔥**](https://super-admin.tech/) An Admin template with Multi Tabs Keepalive cache
 
 [**ShortcutsAI**](https://github.com/irychen/ShortcutsAI) Just run your AI work from macOs Status Bar
