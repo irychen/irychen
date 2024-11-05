@@ -17,6 +17,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,mysql,postgresql,nginx,git,pnpm,vite,github,githubactions,jenkins,figma,vercel&theme=light)](https://skillicons.dev)
 
+### 🧩 Languages State
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irychen&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&card_width=500&hide_title=true)
+
 
 ### 💗 Open Source Works
 
@@ -28,7 +32,7 @@
 
 - [**ShortcutsAI**](https://github.com/irychen/ShortcutsAI) Just run your AI work from macOs Status Bar
 
-### Engaging In
+### 💛 Engaging In
 
 - Best UI interaction Improving
 - Low-Code Platform Building and Integrating with AI
