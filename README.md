@@ -5,11 +5,20 @@
 
  **My Blogs** https://wyc.info
 
- ### Github State
+### ⭐️ Github State
 
 [![irychen's GitHub | Stats](https://stats.quira.sh/irychen/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=irychen)
 
-### Open Source Works
+### 🍉 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=go,java,swift,nestjs,prisma,nodejs,react,next,vue,tailwindcss,html,css,js,jquery,ts,less,scss,electron&theme=light&perline=10)](https://skillicons.dev)
+
+### 🔨 Tools I Use
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,nginx,git,pnpm,vite,github,githubactions,jenkins,figma,vercel&theme=light)](https://skillicons.dev)
+
+
+### 💗 Open Source Works
 
 [**Fortea**](https://www.npmjs.com/package/fortea) A comprehensive TypeScript function library offering a wide range of utilities. 
 
