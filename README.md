@@ -1,6 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Rychen 👋 </b></h1>
 
+Hey, welcome to my GitHub! 👋 I'm a full-stack developer passionate about creating awesome digital experiences. 💻✨
+
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=irychen&label=PROFILE+VIEWS)
 
  **My Blogs** https://wyc.info
