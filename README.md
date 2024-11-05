@@ -15,7 +15,7 @@
 
 ### 🔨 Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,nginx,git,pnpm,vite,github,githubactions,jenkins,figma,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,postgresql,nginx,git,pnpm,vite,github,githubactions,jenkins,figma,vercel&theme=light)](https://skillicons.dev)
 
 
 ### 💗 Open Source Works
