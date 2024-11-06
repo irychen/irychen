@@ -17,7 +17,7 @@ Hey, welcome to my GitHub! 👋 I'm a full-stack developer passionate about crea
 
 ### 🔨 Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,postgresql,redis,nginx,git,pnpm,vite,github,githubactions,jenkins,figma,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,postgresql,redis,nginx,git,pnpm,vite,figma,vercel&theme=light)](https://skillicons.dev)
 
 ### 🧩 Languages State
 
