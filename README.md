@@ -13,7 +13,7 @@ Hey, welcome to my GitHub! 👋 I'm a full-stack developer passionate about crea
 
 ### 🍉 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,swift,nestjs,prisma,nodejs,react,next,vue,tailwindcss,html,css,js,jquery,ts,less,scss,electron&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,swift,react,next,vue,tailwindcss,html,css,js,jquery,ts,less,scss,electron&theme=light&perline=10)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
 
